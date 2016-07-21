@@ -27,6 +27,10 @@ npm install -g pm2
 npm install -g pm2-web
 npm install -g reqd
 npm install -g uglify-js
+npm install -g grunt
+npm install -g grunt-cli
+npm install -g express
+pip install awscli
 
 echo "cd ~/projects" >> ~/.profile
 

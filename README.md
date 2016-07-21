@@ -1,4 +1,4 @@
-# vagrant-node
+# Vagrant-node for Alexa Skill Development
 
 vagrant-node is the virtual machine used for Node.js development.
 

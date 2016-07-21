@@ -60,7 +60,8 @@ Additionally, the following CLI tools have been installed globally and are ready
 - [pm2-web](https://github.com/achingbrain/pm2-web)
 - [reqd](https://github.com/thenativeweb/reqd)
 - [UglifyJS2](http://lisperator.net/uglifyjs/)
-
+- [AWS](http://docs.aws.amazon.com/cli/latest/userguide/installing.html)
+- [Express](https://expressjs.com/)
 Where necessary, port forwardings for these tools have already been configured.
 
 ### Using Docker
